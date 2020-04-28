@@ -1,5 +1,7 @@
 # auf-den-captain
 
+compiled from several sources. mostly taken from https://www.piratevoyages.com/pirate-lingo/
+
 Piraten  | English
 ------------- | -------------
 'em|them
